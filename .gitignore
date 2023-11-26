@@ -1,2 +1,2 @@
-# Ignorer tous les fichiers .vs
-*.vs
+# Skip all files .vs in folder
+.vs/
